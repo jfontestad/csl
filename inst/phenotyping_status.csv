@@ -1,0 +1,396 @@
+"","phenotype","definition","comments","medicalAnalyst","validatedByRealData"
+"1","","","","oleg.zhuk@odysseusinc.com"," "
+"2","864_antiCD20","list of anti-CD20 drugs","Don't add iobenguane and Tositumomab","oleg.zhuk@odysseusinc.com","validated"
+"3","864_DLBCL_C83.3X","DLBCL: C83.3X","Problem mapping in C83.36, mentoned in email - allowed to use source_concept_id - check separate concept_set","oleg.zhuk@odysseusinc.com","validated"
+"4","864_FL_C82.X","FL: C82.X","","oleg.zhuk@odysseusinc.com","validated"
+"5","864_CLL_C91.1X","CLL: C91.1X","","oleg.zhuk@odysseusinc.com","validated"
+"6","864_CLL_C91.3X","CLL: C91.3X","","oleg.zhuk@odysseusinc.com","validated"
+"7","864_MCL_C83.1X","MCL: C83.1X","","oleg.zhuk@odysseusinc.com","validated"
+"8","864_MZL_C83.8X_C88.4X","MZL: C83.8X or C88.4X","","oleg.zhuk@odysseusinc.com","validated"
+"9","864_BNHL_All","Other","","oleg.zhuk@odysseusinc.com","validated"
+"10","864_DLBCL_source_concept_id_C83.3X","C83.36 - code with problem mapping","","oleg.zhuk@odysseusinc.com","validated"
+"11","864_FL_source_concept_id_C82.X","C82.X - source_concept_id for codes with problem mapping","","oleg.zhuk@odysseusinc.com","validated"
+"12","864_MZL_source_concept_id_C83.8X_C88.4X","C83.8, C83.80, C83.81, C83.82, C83.83, C83.84, C83.85, C83.86, C83.87, C83.88, C83.89","","oleg.zhuk@odysseusinc.com","validated"
+"13","864_BNHL_source_concept_id_All","source concepts not covered by mapping to ver general concepts","","oleg.zhuk@odysseusinc.com","validated"
+"14","864_MCL_source_concept_id_C83.1X","C83.19","","oleg.zhuk@odysseusinc.com","validated"
+"15","","","","oleg.zhuk@odysseusinc.com"," "
+"16","907_ADdiag_L20.0_L20.81_L20.82_L20.83_L20.84_L20.89_L20.9","L20.0   Besnier's prurigo
+L20.81 Atopic neurodermatitis 
+L20.82 Flexural eczema
+L20.83 Infantile (acute) (chronic) eczema
+L20.84 Intrinsic (allergic) eczema
+L20.89 Other atopic dermatitis
+L20.9   Atopic dermatitis, unspecified","L20.0   Besnier's prurigo
+L20.81 Atopic neurodermatitis 
+L20.82 Flexural eczema
+L20.83 Infantile (acute) (chronic) eczema
+L20.84 Intrinsic (allergic) eczema
+L20.89 Other atopic dermatitis
+L20.9   Atopic dermatitis, unspecified","oleg.zhuk@odysseusinc.com","validated"
+"17","907_topical_CI","Pimecrolimus, Tacrolimus","","oleg.zhuk@odysseusinc.com","validated"
+"18","907_phototherapy","phototherapy","","oleg.zhuk@odysseusinc.com","validated"
+"19","907_Syst_corticosteroids_oral_inj","Betamethasone, Cortisone, Dexamethasone, Hydrocortisone, Methylprednisolone, Prednisolone, Prednisone, Triamcinolone","","oleg.zhuk@odysseusinc.com","validated"
+"20","907_Immunosuppressants","Cyclosporine, Methotrexate, Azathioprine, Mycophenolate, tacrolimus (oral), Interferon Gamma","Slightly differs from 908_Immunosuppressants; No need to add additional concepts","oleg.zhuk@odysseusinc.com","validated"
+"21","907_topical_crisaborole","Topical crisaborole","","oleg.zhuk@odysseusinc.com","validated"
+"22","907_topical_corticosteroids","Alclometasone, Amcinonide, Betamethasone, Clobetasol, Clocortolone, Desonide, Desoximetasone, Diflorasone, Flucinolone, Fluocinonide, Flurandrenolide, Fluticasone, Halcinonide, Halobetasol, Hydrocortisone, Mometasone, Prednicarbate, Triamcinolone","No need to add additional concepts","oleg.zhuk@odysseusinc.com","validated"
+"23","","","","oleg.zhuk@odysseusinc.com"," "
+"24","908_Urticaria_L50.1_L50.8_L50.9","outpatient CSU dx of L50.1, L50.8, or L50.9","Urticaria only","oleg.zhuk@odysseusinc.com","validated"
+"25","908_Angioedema_T78.3","one outpatient dx with T78.3","Angioedema","oleg.zhuk@odysseusinc.com","validated"
+"26","908_L50.0_L50.2-L50.6_L56.9_D69.0","L50.0, L50.2-L50.6, L56.9 or D69.0","Certain types of urticaria","oleg.zhuk@odysseusinc.com","validated"
+"27","908_First_gen_H1_antihist","Brompheniramine, Carbinoxamine, Chlorpheniramine, Clemastine, Cyproheptadine, dexchlorpheniramine, Dimetindene, Diphenhydramine, Doxyalimine, Hydroxyzine, Promethazine, tripolidine","","oleg.zhuk@odysseusinc.com","validated"
+"28","908_Second_gen_H1_antihist","Cetirizine, Desloratadine, fexofenadine, Levocetirizine, loratadine, Mizolastine","","oleg.zhuk@odysseusinc.com","validated"
+"29","908_Syst_corticosteroids_oral_inj","Betamethasone, Cortisone, Dexamethasone, Hydrocortisone, Methylprednisolone, Prednisolone, Prednisone, Triamcinolone","","oleg.zhuk@odysseusinc.com","validated"
+"30","908_Immunosuppressants","Cyclosporine, Methotrexate, Azathioprine, Mycophenolate, tacrolimus (oral), dapsone, sulfasalazine, mizoribine","No need to add additional concepts","oleg.zhuk@odysseusinc.com","validated"
+"31","908_doxepin_oral","oral doxepin","","oleg.zhuk@odysseusinc.com","validated"
+"32","908_montelukast","montelukast","","oleg.zhuk@odysseusinc.com","validated"
+"33","908_omalizumab","Omalizumab","","oleg.zhuk@odysseusinc.com","validated"
+"34","908_phototherapy","phototherapy","Discussion required: we can't define good codelist for the phototherapy, the concept set becomes very general. We can exclude all nasal/oral/etc phototherapy, but not sure if this option is ok","oleg.zhuk@odysseusinc.com","validated"
+"35","","","","oleg.zhuk@odysseusinc.com"," "
+"36","909_Prurigo_L28.1","At least one dx (ICD-10 L28.1) at any place in the RX file or the Dx/Lx file","Diagnosis of Prurigo nodularis, no other conditions found","oleg.zhuk@odysseusinc.com","validated"
+"37","909_Gabapentinoids","Gabapentin, pregabalin","Do not include mirogabalin and phenibut","oleg.zhuk@odysseusinc.com","validated"
+"38","909_mod_high_potency_TCS","List 2","Include combinations","oleg.zhuk@odysseusinc.com","validated"
+"39","909_topical_CI","Pimecrolimus, Tacrolimus","Combinations should be included","oleg.zhuk@odysseusinc.com","validated"
+"40","909_Syst_corticosteroids_oral_inj","Betamethasone, Cortisone, Dexamethasone, Hydrocortisone, Methylprednisolone, Prednisolone, Prednisone, Triamcinolone","","oleg.zhuk@odysseusinc.com","validated"
+"41","909_Immunosuppressants","Cyclosporine, Methotrexate, Azathioprine, Mycophenolate, thalidomide, lenalidomide, tacrolimus (oral), dapsone","Differs from concept set in cohort 908","oleg.zhuk@odysseusinc.com","validated"
+"42","909_phototherapy_cryotherapy","Phototherapy, cryotherapy (if there is code)","Phototherapy of skin + cryotherapy of skin + high level concepts (phototherapy, cryotherapy) without descendants","oleg.zhuk@odysseusinc.com","validated"
+"43","909_Antidepressants","SSRI, SNRI, TCA","Using ATC definition for SSRI, SNRI, TCA since REG team forgot to attach the file of drugs of interest","oleg.zhuk@odysseusinc.com","validated"
+"44","","","","oleg.zhuk@odysseusinc.com"," "
+"45","994_malignant_tumor_of_cervix","Malignant tumor of cervix","Note, also contains secondary malignant neoplasm of cervix since not specified by Regeneron team","oleg.zhuk@odysseusinc.com","validated"
+"46","994_malignant_neoplasm_metastasis_to_cervix","Metastasis from anywhere to cervix","From the REG email: We need secondary neoplasm of any site, potentially spread from cervix, not to cervix","oleg.zhuk@odysseusinc.com","validated"
+"47","994_primary_malignant_neoplasm_of_cervix","Primary malignant neoplasm of cervix","Only direct indication on primary malignant neoplasm of cervix. Does not contain concepts from the metastatics from cervix","oleg.zhuk@odysseusinc.com","validated"
+"48","994_unspecified_malignant_neoplasm_of_cervix","Unspecified malignant neoplasm of cervix","Concepts unclear whether primary or not; Do not contain concepts from the metastatics from cervix","oleg.zhuk@odysseusinc.com","validated"
+"49","994_metastasis_excluding_to_cervix","All secondary malignant neoplasms, excluding malignant neoplasm to cervix + All Cancer modifier metastasis, excluding metastasis to cervix + excluding metastasis from known not cervix cancers","On call we agreed to define metastatic cervical cancer as any mention of malignant neoplasm of uterine cervix followed by any mention of secondary neoplastic disease, excluding metastasis to cervix. I also excluded concepts with direct indication that metastasis came from another organ","oleg.zhuk@odysseusinc.com","validated"
+"50","994_malignant_neoplasm_metastatic_from_cervix","Concepts with direct indication that metastasis came from the uterine cervix","Renamed from 994_metastatic_cervial_cancer","oleg.zhuk@odysseusinc.com","validated"
+"51","994_systemic_therapy","bevacizumab, carboplatin, cisplatin, docetaxel, entrectinib, etoposide, fluorouracil, gemcitabine, ifosfamide, irinotecan, larotrectinib, mitomycin, paclitaxel, pembrolizumab, pemetrexed, topotecan, vinorelbine","","oleg.zhuk@odysseusinc.com","validated"
+"52","994_pembrolizumab","pembrolizumab","In case REG team need only pembrolizumab","oleg.zhuk@odysseusinc.com","validated"
+"53","","","","oleg.zhuk@odysseusinc.com"," "
+"54","1003_lung_cancer","Any lung cancer, including primary bronchial cancer","Incl bronchial cancer","oleg.zhuk@odysseusinc.com"," "
+"55","1003_advanced_lung_cancer","Define through Snomed concepts","Would possibly limit the number of patients significantly hence only offered as an option","oleg.zhuk@odysseusinc.com"," "
+"56","1003_NSCLC","Only NSCLC","","oleg.zhuk@odysseusinc.com"," "
+"57","1003_C34.X_C7A.090","C34.00   Malignant neoplasm of unspecified main bronchus
+C34.01   Malignant neoplasm of right main bronchus
+C34.02   Malignant neoplasm of left main bronchus
+C34.10   Malignant neoplasm of upper lobe, unspecified bronchus or lung
+C34.11   Malignant neoplasm of upper lobe, right bronchus or lung
+C34.12   Malignant neoplasm of upper lobe, left bronchus or lung
+C34.2     Malignant neoplasm of middle lobe, bronchus or lung
+C34.30   Malignant neoplasm of lower lobe, unspecified bronchus or lung
+C34.31   Malignant neoplasm of lower lobe, right bronchus or lung
+C34.32   Malignant neoplasm of lower lobe, left bronchus or lung
+C34.80   Malignant neoplasm of overlapping sites of unspecified bronchus and lung
+C34.81   Malignant neoplasm of overlapping sites of right bronchus and lung
+C34.82   Malignant neoplasm of overlapping sites of left bronchus and lung
+EXCLUDING:
+C34.90   Malignant neoplasm of unspecified part of unspecified bronchus or lung
+C34.91   Malignant neoplasm of unspecified part of right bronchus or lung
+C34.92   Malignant neoplasm of unspecified part of left bronchus or lung
+C7A.090                Malignant carcinoid tumor of the bronchus and lung","","oleg.zhuk@odysseusinc.com"," "
+"58","1003_source_concept_id_C34.X_C7A.090","C34.90   Malignant neoplasm of unspecified part of unspecified bronchus or lung
+C34.91   Malignant neoplasm of unspecified part of right bronchus or lung
+C34.92   Malignant neoplasm of unspecified part of left bronchus or lung
+C7A.090                Malignant carcinoid tumor of the bronchus and lung","For concepts with very general mapping","oleg.zhuk@odysseusinc.com"," "
+"59","1003_immunotherapy_ICI","atezolizumab, ipilimumab, nivolumab, pembrolizumab","Durvalumab","oleg.zhuk@odysseusinc.com"," "
+"60","1003_chemotherapy","carboplatin, cisplatin, docetaxel, etoposide, gemcitabine, nab paclitaxel, paclitaxel, pemetrexed, vinorelbine","","oleg.zhuk@odysseusinc.com"," "
+"61","","","","oleg.zhuk@odysseusinc.com"," "
+"62","1053_hemophilia_B","D67","","oleg.zhuk@odysseusinc.com"," "
+"63","1053_factor_IX","","","oleg.zhuk@odysseusinc.com"," "
+"64","","","","oleg.zhuk@odysseusinc.com"," "
+"65","","","while Oleg was on a sick leave","oleg.zhuk@odysseusinc.com"," "
+"66","","","","oleg.zhuk@odysseusinc.com"," "
+"67","","","while Oleg was on a sick leave","oleg.zhuk@odysseusinc.com"," "
+"68","","","","oleg.zhuk@odysseusinc.com"," "
+"69","1094-1098_myasthenia_gravis","G70.00
+G70.01
+G70.2","Regeneron team sent 2 concept sets, none of them seem completely satisfying","oleg.zhuk@odysseusinc.com","validated"
+"70","1094-1098_myasthenia_gravis_source_concept_id_G70.1","G70.1","","oleg.zhuk@odysseusinc.com","validated"
+"71","","","","oleg.zhuk@odysseusinc.com"," "
+"72","1060_olanzapine_any","ingredient level","HCPCS concepts covered by mapping","oleg.zhuk@odysseusinc.com","validated"
+"73","1060_olanzapine_brand","Zyprexa + Symbyax","","oleg.zhuk@odysseusinc.com","validated"
+"74","1060_olanzapine_generic","only OMOP Branded Drugs, but not considered branded by the Reg team","","oleg.zhuk@odysseusinc.com","validated"
+"75","1060_olanzapine_oral","regardless of brand, only oral forms","","oleg.zhuk@odysseusinc.com","validated"
+"76","1060_olanzapine_injection","regardless of brand, only injectable forms + HCPCS with wrong mapping","","oleg.zhuk@odysseusinc.com","validated"
+"77","1060_risperidone_any","ingredient level","","oleg.zhuk@odysseusinc.com","validated"
+"78","1060_risperidone_brand","Risperdal","","oleg.zhuk@odysseusinc.com","validated"
+"79","1060_risperidone_generic","only OMOP Branded Drugs, but not considered branded by the Reg team","","oleg.zhuk@odysseusinc.com","validated"
+"80","1060_risperidone_oral","regardless of brand, only oral forms","","oleg.zhuk@odysseusinc.com","validated"
+"81","1060_risperidone_injection","regardless of brand, only injectable forms + HCPCS with wrong mapping","","oleg.zhuk@odysseusinc.com","validated"
+"82","","","","oleg.zhuk@odysseusinc.com"," "
+"83","1083_FL_C82.X","FL: C82.X","From cohort 864","oleg.zhuk@odysseusinc.com","validated"
+"84","1083_FL_source_concept_id_C82.X","C82.X - source_concept_id for codes with problem mapping","From cohort 864","oleg.zhuk@odysseusinc.com","validated"
+"85","1083_antiCD20","list of anti-CD20 drugs, without ocrelizumab, ofatumumab, belimumab","From cohort 864","oleg.zhuk@odysseusinc.com","validated"
+"86","1083_alkylating_agents","Bendamustine, Chlorambucil, Cyclophosphamide (cytophosphane)","From emails","oleg.zhuk@odysseusinc.com","validated"
+"87","1083_lenalidomide","lenalidomide","","oleg.zhuk@odysseusinc.com","validated"
+"88","1083_rituximab","rituximab","","oleg.zhuk@odysseusinc.com","validated"
+"89","","","","oleg.zhuk@odysseusinc.com"," "
+"90","1076_iop_lowering","Brimonidine tartrate 0.1%, 0.15% 
+Apraclonidine HCI 0.5%, 1% 
+Timolol hemihydrate 0.25%, 0.5% 
+Timolol Maleate 0.5%
+Levobunolol HCI ophthalmic solution, USP 0.25%, 0.5% 
+Metipranolol 0.3%
+Timolol Maleate Ophthalmic Solution 0.5%
+Timolol maleate ophthalmic solution 0.25%, 0.5% in Ocudose dispenser
+Timolol maleate ophthalmic gel forming solution 0.25%, 0.5%
+Betaxolol HCI 0.25%, 0.5%
+Methazolamide 
+Dorzolamide HCI 2%
+Brinzolamide ophthalmic suspension 1%
+Acetazolamide 
+Pilocarpine HCI 1%, 2%, 4%
+Pilocarpine HCl 1%, 2%, 4% 
+Carbachol 0.75%, 1.5%, 3%
+Pilocarpine HCl gel 4%
+Netarsudil and Latanoprost ophthalmic solution 0.02%/0.005%
+Dorzolomide HCI & Timolol Maleate
+Brimonidine Tartrate & Timolol Maleate ophthalmic solution 0.2%/0.5%
+Brinzolamide & Brimonidine tartrate 1%/0.2%
+Tafluprost ophthalmic solution 0.0015% (PF)
+Bimatoprost 10 mcg implant
+Bimatoprost 0.01%, 0.03%
+Latanoprostene bunod 0.024%
+Travaprost 0.004%
+Latanoprost 0.005%
+Latanoprost ophthalmic emulsion 0.005%","REG interested in NDC codes only; drug list came from the email","oleg.zhuk@odysseusinc.com"," "
+"91","1076_iop_lowering_source_concept_id","","Drugs, identified through the brand name search; not needed!","oleg.zhuk@odysseusinc.com"," "
+"92","","","","oleg.zhuk@odysseusinc.com"," "
+"93","1111_hidradenitis_suppurativa","hidradenitis suppurativa","","oleg.zhuk@odysseusinc.com"," "
+"94","1111_palmoplantar_pustulosis","palmoplantar pustulosis","","oleg.zhuk@odysseusinc.com"," "
+"95","","","","oleg.zhuk@odysseusinc.com"," "
+"96","1109_diabetes","","https://forums.ohdsi.org/t/phenotype-phebruary-day-1-type-2-diabetes-mellitus/15764","oleg.zhuk@odysseusinc.com","validated"
+"97","1109_obesity","ICD 10 E66.1: Drug-induced obesity.
+ICD 10 E66.2: Severe obesity with alveolar hypoventilation.
+ICD 10 E66.3: Overweight.
+ICD 10 E66.8: Other obesity.
+ICD 10 E66.9: Obesity, unspecified.
+ICD 10 E66.0: Obesity due to excess calories.
+ICD 10 E66.01: Severe obesity due to excess calories.
+ICD 10 E66.09: Other obesity due to excess calories.
+ICD 10 Z68.25-29.9: Body mass index (BMI) 25-29.9, adult.
+ICD 10 Z68.30-Z68.39: Body mass index (BMI) 30.0-39.9, adult.
+ICD 10 Z68.4: Body mass index (BMI) 40 or greater, adult.
+ICD 10 Z68.41: Body mass index (BMI) 40.0-44.9, adult.
+ICD 10 Z68.42: Body mass index (BMI) 45.0-49.9, adult.
+ICD 10 Z68.43: Body mass index (BMI) 50-59.9, adult.
+ICD 10 Z68.44: Body mass index (BMI) 60.0-69.9, adult.
+ICD 10 Z68.45: Body mass index (BMI) 70 or greater, adult.","","oleg.zhuk@odysseusinc.com","validated"
+"98","1109_semaglutide_any","ingredient level","","oleg.zhuk@odysseusinc.com","validated"
+"99","1109_semaglutide_brand_wegovy","Wegovy","","oleg.zhuk@odysseusinc.com","validated"
+"100","1109_semaglutide_generic","Not needed, because generic drugs for wegovy are other phenotypes","Reg team didn't know about generic","oleg.zhuk@odysseusinc.com","validated"
+"101","1109_liraglutide_any","ingredient level","","oleg.zhuk@odysseusinc.com","validated"
+"102","1109_liraglutide_brand_saxenda","Saxenda","","oleg.zhuk@odysseusinc.com","validated"
+"103","1109_liraglutide_generic","Not needed, because generic drugs for saxenda are other phenotypes","","oleg.zhuk@odysseusinc.com","validated"
+"104","1109_naltrexone_buproprion_any_combination","only combinations!","","oleg.zhuk@odysseusinc.com","validated"
+"105","1109_naltrexone_buproprion_brand_contrave","Contrave","","oleg.zhuk@odysseusinc.com","validated"
+"106","1109_naltrexone_buproprion_generic","","","oleg.zhuk@odysseusinc.com","validated"
+"107","1109_phentermine_topiramate_any_combination","only combinations!","","oleg.zhuk@odysseusinc.com","validated"
+"108","1109_phentermine_topiramate_brand_qsymia","Qsymia","","oleg.zhuk@odysseusinc.com","validated"
+"109","1109_phentermine_topiramate_generic","NOT IDENTIFIED","","oleg.zhuk@odysseusinc.com","validated"
+"110","1109_orlistat_any","ingredient level","","oleg.zhuk@odysseusinc.com","validated"
+"111","1109_orlistat_brand_xenical","Xenical","","oleg.zhuk@odysseusinc.com","validated"
+"112","1109_orlistat_generic","","","oleg.zhuk@odysseusinc.com","validated"
+"113","1109_liraglutide_brand_victoza","Victoza","","oleg.zhuk@odysseusinc.com","validated"
+"114","1109_liraglutide_generic","Not needed, because generic drugs for Victoza are other phenotypes","","oleg.zhuk@odysseusinc.com","validated"
+"115","1109_liraglutide_insulin_brand_xultophy","Xultophy","","oleg.zhuk@odysseusinc.com","validated"
+"116","1109_semaglutide_brand_ozempic ","Ozempic","","oleg.zhuk@odysseusinc.com","validated"
+"117","1109_semaglutide_brand_rybelsus","Rybelsus","","oleg.zhuk@odysseusinc.com","validated"
+"118","1109_exenatide_any","ingredient level","","oleg.zhuk@odysseusinc.com","validated"
+"119","1109_exenatide_brand_byetta","Byetta","","oleg.zhuk@odysseusinc.com","validated"
+"120","1109_dulaglutide_any","ingredient level","","oleg.zhuk@odysseusinc.com","validated"
+"121","1109_dulaglutide_brand_trulicity","Trulicity","","oleg.zhuk@odysseusinc.com","validated"
+"122","1109_lixisenatide_any","ingredient level","","oleg.zhuk@odysseusinc.com","validated"
+"123","1109_lixisenatide_brand_adlyxin","Adlyxin","","oleg.zhuk@odysseusinc.com","validated"
+"124","1109_lixisenatide_insulin_brand_soliqua","Soliqua","","oleg.zhuk@odysseusinc.com","validated"
+"125","1109_exenatide_brand_bydureon","Bydureon","","oleg.zhuk@odysseusinc.com","validated"
+"126","1109_albiglutide_any","ingredient level","","oleg.zhuk@odysseusinc.com","validated"
+"127","1109_albiglutide_brand_tanzeum","Tanzeum","","oleg.zhuk@odysseusinc.com","validated"
+"128","","","","oleg.zhuk@odysseusinc.com"," "
+"129","1086_luspatercept","","One HCPCS code is missing, will be added during next release","oleg.zhuk@odysseusinc.com","validated"
+"130","1086_ferritin_measurement","","","oleg.zhuk@odysseusinc.com","validated"
+"131","1086_MDS","D46.1, D46.20, D46.21, D46.22, D46.B","","oleg.zhuk@odysseusinc.com","validated"
+"132","1086_MDS_RS","D46.1, D46.B","","oleg.zhuk@odysseusinc.com","validated"
+"133","1086_B_thal","D56.1, D56.5","","oleg.zhuk@odysseusinc.com","validated"
+"134","1086_transfusion","from Reg email: focus on whole blood or red blood cell transfusions","","oleg.zhuk@odysseusinc.com","validated"
+"135","","","","oleg.zhuk@odysseusinc.com"," "
+"136","1137_ Estimating the prevalence xanthomas xanthelasma  patients ","","","mikita.salavei@odysseusinc.com ","validated"
+"137","","","","oleg.zhuk@odysseusinc.com"," "
+"138","1050_moderate_severe_asthma","J45.4* or J45.5*","","mikita.salavei@odysseusinc.com ","validated"
+"139","1050_sublingual_immunotherapy","""963828,"",--,1998626,Drug,American house dust mite allergenic extract 6 SQ-HDM / European house dust mite allergenic extract 6 SQ-HDM [Odactra]
+""963833,"",--,1998631,Drug,American house dust mite allergenic extract 6 SQ-HDM / European house dust mite allergenic extract 6 SQ-HDM Sublingual Tablet [Odactra]
+""963829,"",--,1998627,Drug,American house dust mite allergenic extract / European house dust mite allergenic extract Sublingual Tablet [Odactra]
+""44815927,"",--,1495465,Drug,short ragweed pollen extract 12 Amb a 1-U [Ragwitek]
+""44816255,"",--,1495470,Drug,short ragweed pollen extract 12 Amb a 1-U Sublingual Tablet [Ragwitek]
+""44815928,"",--,1495466,Drug,short ragweed pollen extract Sublingual Tablet [Ragwitek]
+""44815918,"",--,1495311,Drug,Timothy grass pollen extract 2800 BAU [Grastek]
+""44816248,"",--,1495316,Drug,Timothy grass pollen extract 2800 BAU Sublingual Tablet [Grastek]
+""44815919,"",--,1495312,Drug,Timothy grass pollen extract Sublingual Tablet [Grastek]
+""36897726,"",--,OMOP1005511,Drug,{31 (annual bluegrass pollen extract 1 UNT / cultivated rye grass pollen extract 1 UNT / meadow fescue grass pollen extract 1 UNT / sweet vernal grass pollen extract 1 UNT / Timothy grass pollen extract 1 UNT Sublingual Tablet) } Pack [Oralair]
+""43870000,"",--,OMOP902009,Drug,{31 (annual bluegrass pollen extract 1 UNT / cultivated rye grass pollen extract 1 UNT / meadow fescue grass pollen extract 1 UNT / sweet vernal grass pollen extract 1 UNT / Timothy grass pollen extract 1 UNT Sub...) } Pack [Oralair] by Stallergenes
+""43045364,"",--,OMOP4860361,Drug,{3 (Anthoxanthum odoratum extract 100 IR / Dactylis glomerata pollen allergen extract 100 IR / Kentucky bluegr...) / 28 (Anthoxanthum odoratum extract 300 IR / Dactylis glomerata pollen allergen extract 300 IR / Kentucky blueg...) } Pack [Oralair]
+""36776991,"",--,OMOP4778798,Drug,{3 (Kentucky bluegrass pollen extract 20 UNT / orchard grass pollen extract 20 UNT / perennial r...) / 28 (Kentucky bluegrass pollen extract 60 UNT / orchard grass pollen extract 60 UNT / perennial ...) } Pack [Oralair] box of 1 by Stallergenes
+""36777087,"",--,OMOP4778799,Drug,{3 (Kentucky bluegrass pollen extract 20 UNT / orchard grass pollen extract 20 UNT / perennial rye grass...) / 28 (Kentucky bluegrass pollen extract 60 UNT / orchard grass pollen extract 60 UNT / perennial rye gras...) } Pack [Oralair] box of 1
+""36790450,"",--,OMOP4778800,Drug,{3 (Kentucky bluegrass pollen extract 20 UNT / orchard grass pollen extract 20 UNT / perennial rye grass polle...) / 28 (Kentucky bluegrass pollen extract 60 UNT / orchard grass pollen extract 60 UNT / perennial rye grass poll...) } Pack [Oralair]
+""42683634,"",--,OMOP4912943,Drug,{3 (perennial rye grass pollen extract 100 UNT Sublingual Tablet) / 28 (perennial rye grass pollen extract 300 UNT Sublingual Tablet) } Pack [Oralair]
+""42683635,"",--,OMOP4912942,Drug,{3 (perennial rye grass pollen extract 100 UNT Sublingual Tablet) / 28 (perennial rye grass pollen extract 300 UNT Sublingual Tablet) } Pack [Oralair] by Stallergenes
+""43714830,"",--,OMOP706160,Drug,annual bluegrass pollen extract 1 UNT / cultivated rye grass pollen extract 1 UNT / meadow fescue grass pollen extract 1 UNT / sweet vernal grass pollen extract 1 UNT / Timothy grass pollen extract 1 UNT [Oralair]
+""43732847,"",--,OMOP706162,Drug,annual bluegrass pollen extract 1 UNT / cultivated rye grass pollen extract 1 UNT / meadow fescue grass pollen extract 1 UNT / sweet vernal grass pollen extract 1 UNT / Timothy grass pollen extract 1 UNT Sublingual Tablet [Oralair]
+""43732848,"",--,OMOP706163,Drug,annual bluegrass pollen extract 1 UNT / cultivated rye grass pollen extract 1 UNT / meadow fescue grass pollen extract 1 UNT / sweet vernal grass pollen extract 1 UNT / Timothy grass pollen extract 1 UNT / ... Sublingual Tablet [Oralair] by Stallergenes
+""43714829,"",--,OMOP706158,Drug,annual bluegrass pollen extract / cultivated rye grass pollen extract / meadow fescue grass pollen extract / sweet vernal grass pollen extract / Timothy grass pollen extract Sublingual Tablet [Oralair]
+""43516237,"",--,OMOP2803352,Drug,Anthoxanthum odoratum extract 20 UNT / Dactylis glomerata top extract 20 UNT / perennial rye grass pollen extract 20 UNT / Phleum pratense top extract 20 UNT / Poa pratensis top extract 20 UNT [Oralair]
+""43515195,"",--,OMOP2802310,Drug,Anthoxanthum odoratum extract 20 UNT / Dactylis glomerata top extract 20 UNT / perennial rye grass pollen extract 20 UNT / Phleum pratense top extract 20 UNT / Poa pratensis top extract 20 UNT Sublingual Tablet [Oralair]
+""43022181,"",--,OMOP4837321,Drug,Anthoxanthum odoratum extract 300 IR / Dactylis glomerata pollen allergen extract 300 IR / Kentucky bluegrass pollen extract 300 IR / Lolium perenne pollen allergen extract 300 IR / ... Sublingual Tablet [Oralair] Box of 30
+""43022182,"",--,OMOP4837322,Drug,Anthoxanthum odoratum extract 300 IR / Dactylis glomerata pollen allergen extract 300 IR / Kentucky bluegrass pollen extract 300 IR / Lolium perenne pollen allergen extract 300 IR / ... Sublingual Tablet [Oralair] Box of 30 by Stallergenes
+""43022176,"",--,OMOP4837317,Drug,Anthoxanthum odoratum extract 300 IR / Dactylis glomerata pollen allergen extract 300 IR / Kentucky bluegrass pollen extract 300 IR / Lolium perenne pollen allergen extract 300 IR / Timothy grass pollen extract 300 IR [Oralair]
+""43022179,"",--,OMOP4837320,Drug,Anthoxanthum odoratum extract 300 IR / Dactylis glomerata pollen allergen extract 300 IR / Kentucky bluegrass pollen extract 300 IR / Lolium perenne pollen allergen extract 300 IR / Timothy grass pollen extract 300 IR / ... Sublingual Tablet [Oralair]
+""43517069,"",--,OMOP2804184,Drug,Anthoxanthum odoratum extract 60 UNT / Dactylis glomerata top extract 60 UNT / perennial rye grass pollen extract 60 UNT / Phleum pratense top extract 60 UNT / Poa pratensis top extract 60 UNT [Oralair]
+""43517650,"",--,OMOP2804765,Drug,Anthoxanthum odoratum extract 60 UNT / Dactylis glomerata top extract 60 UNT / perennial rye grass pollen extract 60 UNT / Phleum pratense top extract 60 UNT / Poa pratensis top extract 60 UNT Sublingual Tablet [Oralair]
+""43515435,"",--,OMOP2802550,Drug,Anthoxanthum odoratum extract 80 UNT / Dactylis glomerata top extract 80 UNT / perennial rye grass pollen extract 80 UNT / Phleum pratense top extract 80 UNT / Poa pratensis top extract 80 UNT [Oralair]
+""43514791,"",--,OMOP2801906,Drug,Anthoxanthum odoratum extract 80 UNT / Dactylis glomerata top extract 80 UNT / perennial rye grass pollen extract 80 UNT / Phleum pratense top extract 80 UNT / Poa pratensis top extract 80 UNT Sublingual Tablet [Oralair]
+""43022174,"",--,OMOP4837315,Drug,Anthoxanthum odoratum extract / Dactylis glomerata pollen allergen extract / Kentucky bluegrass pollen extract / Lolium perenne pollen allergen extract / Timothy grass pollen extract Sublingual Tablet [Oralair]
+""44179771,"",--,OMOP3056494,Drug,Anthoxanthum odoratum extract / Dactylis glomerata top extract / Lolium perenne allergenic extract / Phleum pratense top extract / Poa pratensis top extract Sublingual Tablet [Oralair]
+""41208257,"",--,OMOP2406219,Drug,Anthoxanthum odoratum extract / Dactylis glomerata top extract / Lolium perenne allergenic extract / Phleum pratense top extract Sublingual Tablet [Oralair]
+""43517515,"",--,OMOP2804630,Drug,Anthoxanthum odoratum extract / Dactylis glomerata top extract / perennial rye grass pollen extract / Phleum pratense top extract / Poa pratensis top extract Sublingual Tablet [Oralair]
+""43263963,"",--,OMOP557846,Drug,Anthoxanthum odoratum extract / Dactylis glomerata top extract / perennial rye grass pollen extract / Phleum pratense top extract Sublingual Tablet [Oralair]
+""36789329,"",--,OMOP4777578,Drug,Kentucky bluegrass pollen extract 60 UNT / orchard grass pollen extract 60 UNT / perennial rye grass pollen extract 60 UNT / Phleum pratense allergenic extract 60 UNT / ... Sublingual Tablet [Oralair] Box of 30 by Stallergenes
+""36789327,"",--,OMOP4777576,Drug,Kentucky bluegrass pollen extract 60 UNT / orchard grass pollen extract 60 UNT / perennial rye grass pollen extract 60 UNT / Phleum pratense allergenic extract 60 UNT / ... Sublingual Tablet [Oralair] Box of 90 by Stallergenes
+""36789335,"",--,OMOP4777584,Drug,Kentucky bluegrass pollen extract 60 UNT / orchard grass pollen extract 60 UNT / perennial rye grass pollen extract 60 UNT / Phleum pratense allergenic extract 60 UNT / sweet vernal grass pollen extract 60 UNT [Oralair]
+""36789331,"",--,OMOP4777580,Drug,Kentucky bluegrass pollen extract 60 UNT / orchard grass pollen extract 60 UNT / perennial rye grass pollen extract 60 UNT / Phleum pratense allergenic extract 60 UNT / sweet vernal grass pollen extract 60 UNT Sublingual Tablet [Oralair]
+""36789330,"",--,OMOP4777579,Drug,Kentucky bluegrass pollen extract 60 UNT / orchard grass pollen extract 60 UNT / perennial rye grass pollen extract 60 UNT / Phleum pratense allergenic extract 60 UNT / sweet vernal grass pollen extract 60 UNT / ... Sublingual Tablet [Oralair] Box of 30
+""36789328,"",--,OMOP4777577,Drug,Kentucky bluegrass pollen extract 60 UNT / orchard grass pollen extract 60 UNT / perennial rye grass pollen extract 60 UNT / Phleum pratense allergenic extract 60 UNT / sweet vernal grass pollen extract 60 UNT / ... Sublingual Tablet [Oralair] Box of 90
+""36789336,"",--,OMOP4777585,Drug,Kentucky bluegrass pollen extract / orchard grass pollen extract / perennial rye grass pollen extract / Phleum pratense allergenic extract / sweet vernal grass pollen extract Sublingual Tablet [Oralair]
+""42683901,"",--,OMOP4912638,Drug,perennial rye grass pollen extract 300 UNT [Oralair]
+""42683897,"",--,OMOP4912642,Drug,perennial rye grass pollen extract 300 UNT Sublingual Tablet [Oralair]
+""42683896,"",--,OMOP4912643,Drug,perennial rye grass pollen extract 300 UNT Sublingual Tablet [Oralair] Box of 30
+""42683895,"",--,OMOP4912644,Drug,perennial rye grass pollen extract 300 UNT Sublingual Tablet [Oralair] Box of 30 by Stallergenes
+""42683894,"",--,OMOP4912645,Drug,perennial rye grass pollen extract 300 UNT Sublingual Tablet [Oralair] Box of 90
+""42683893,"",--,OMOP4912646,Drug,perennial rye grass pollen extract 300 UNT Sublingual Tablet [Oralair] Box of 90 by Stallergenes
+""42683903,"",--,OMOP4912636,Drug,perennial rye grass pollen extract Sublingual Tablet [Oralair]
+""44062227,"",--,OMOP1056858,Drug,short ragweed pollen extract 12 UNT Sublingual Tablet [Ragwitek] by Merck
+""36277083,"",--,OMOP3127958,Drug,Timothy grass pollen extract 100 UNT [Oralair]
+""36271015,"",--,OMOP3121890,Drug,Timothy grass pollen extract 100 UNT Sublingual Tablet [Oralair]
+""36266420,"",--,OMOP3117295,Drug,Timothy grass pollen extract 100 UNT Sublingual Tablet [Oralair] by Stallergenes
+""44092526,"",--,OMOP1087157,Drug,Timothy grass pollen extract 2800 UNT [Grastek]
+""44033738,"",--,OMOP1028369,Drug,Timothy grass pollen extract 2800 UNT Sublingual Tablet [Grastek]
+""44087809,"",--,OMOP1082440,Drug,Timothy grass pollen extract 2800 UNT Sublingual Tablet [Grastek] by Merck
+""36269437,"",--,OMOP3120312,Drug,Timothy grass pollen extract 300 UNT [Oralair]
+""36268522,"",--,OMOP3119397,Drug,Timothy grass pollen extract 300 UNT Sublingual Tablet [Oralair]
+""36276159,"",--,OMOP3127034,Drug,Timothy grass pollen extract 300 UNT Sublingual Tablet [Oralair] Box of 30
+""36261221,"",--,OMOP3112096,Drug,Timothy grass pollen extract 300 UNT Sublingual Tablet [Oralair] Box of 30 by Stallergenes
+""36265916,"",--,OMOP3116791,Drug,Timothy grass pollen extract 300 UNT Sublingual Tablet [Oralair] Box of 90
+""36271691,"",--,OMOP3122566,Drug,Timothy grass pollen extract 300 UNT Sublingual Tablet [Oralair] Box of 90 by Stallergenes
+""36268887,"",--,OMOP3119762,Drug,Timothy grass pollen extract 300 UNT Sublingual Tablet [Oralair] by Stallergenes
+""36274826,"",--,OMOP3125701,Drug,Timothy grass pollen extract Sublingual Tablet [Oralair]
+","","mikita.salavei@odysseusinc.com ","validated"
+"140","1050_excl_crit_1_obesity","BMI >35 kg/m2 (ICD-10-CM: Z68.35, Z68.36, Z68.37, Z68.38, Z68.38, Z68.39,Z68.4*)
+","","mikita.salavei@odysseusinc.com ","validated"
+"141","1050_excl_crit_2_chronic_pulmonary_diseases","Significant chronic pulmonary disease other than asthma (eg, cystic fibrosis, idiopathic pulmonary fibrosis, sarcoidosis, interstitial lung disease, chronic obstructive pulmonary disease (COPD), eosinophilic granulomatous polyangiitis (EGPA), also called Churg-Strauss Syndrome)","","mikita.salavei@odysseusinc.com ","validated"
+"142","1050_excl_crit_3_pulmonary_hypertension","Pulmonary hypertension (ICD-10: I27.0X; I27.2X)","","mikita.salavei@odysseusinc.com ","validated"
+"143","1050_excl_crit_5_autoimmune_dis_immunosupressive","Patients with active autoimmune disease or patients using immunosuppressive therapy for
+ autoimmune disease (eg, rheumatoid arthritis, inflammatory bowel disease, primary biliary cirrhosis, systemic lupus erythematosus, multiple sclerosis, etc.)","","mikita.salavei@odysseusinc.com ","validated"
+"144","1050_excl_crit_6_history_of_malignancy","History of malignancy within 5 years before the screening visit, except completely treated in situ carcinoma of the cervix, completely treated and resolved non-metastatic squamous or basal cell carcinoma of the skin","","mikita.salavei@odysseusinc.com ","validated"
+"145","1050_excl_crit_7_dupilumab","Dupiluamb use","","mikita.salavei@odysseusinc.com ","validated"
+"146","1050_excl_crit_8_systemic_immunosupressant","Systemic immunosuppressant (eg, methotrexate, any anti-tumor necrosis factor mAbs, Janus kinase inhibitors, B- and/or T-cell targeted immunosuppressive therapies) 
+","","mikita.salavei@odysseusinc.com ","validated"
+"147","1050_excl_crit_9_biologic_therapy","Anti-IgE therapy (eg, omalizumab [Xolair®]) within 130 days prior to visit 1 or any
+other biologic therapy (including anti-IL5, anti-IL-5R, anti-IL4Ra, anti-IL-13 mAb)
+","","mikita.salavei@odysseusinc.com ","validated"
+"148","1050_excl_crit_10_HIV","HIV","","mikita.salavei@odysseusinc.com ","validated"
+"149","1050_excl_crit_11_hepatitisB","Hepatitis B","","mikita.salavei@odysseusinc.com ","validated"
+"150","1050_excl_crit_12_hepatitisC","Hepatitis C","","mikita.salavei@odysseusinc.com ","validated"
+"151","","","","oleg.zhuk@odysseusinc.com"," "
+"152","1160_1166_EG_and_EOD","37116445	Eosinophilic enteritis
+","","oleg.zhuk@odysseusinc.com"," "
+"153","","","","oleg.zhuk@odysseusinc.com"," "
+"154","1155_DLBCL","44808122,	--	847741000000106	Condition	Diffuse large B-cell lymphoma	SNOMED
+4300704,	--	404148006	Condition	Diffuse large B-cell lymphoma (nodal/systemic with skin involvement)	SNOMED
+37116982,	--	734066005	Condition	Diffuse large B-cell lymphoma of central nervous system	SNOMED
+3654886,	--	840423002	Condition	Diffuse large B-cell lymphoma of small intestine	SNOMED
+3654887,	--	840424008	Condition	Diffuse large B-cell lymphoma of stomach	SNOMED
+37206914,	--	787565006	Observation	Diffuse large B-cell lymphoma activated B-cell subtype	SNOMED
+37206933,	--	787594004	Observation	Diffuse large B-cell lymphoma germinal center B-cell subtype	SNOMED
+4189146     --  413990004   Observation Diffuse large B-cell lymphoma - category SNOMED","Reuse from 864","mikita.salavei@odysseusinc.com ","validated"
+"155","1155_DLBCL_source_concept_id_C83.3X","DLBCL: C83.3X","","mikita.salavei@odysseusinc.com ","validated"
+"156","1155_Asthma","317009, -- 195967001 Condition Asthma SNOMED
+4308356 -- 390798007,Condition,Asthma finding,SNOMED","Aspergillosis and mycosis excluded as bugfixing after the Reg team had noticed them","mikita.salavei@odysseusinc.com ","validated"
+"157","1155_Diabetic_macular_edema","380097 --312912001  Condition Macular edema due to diabetes mellitus SNOMED","","mikita.salavei@odysseusinc.com ","validated"
+"158","1155_VEG_inhibitors_Eylea","40244270,  --,1232156,Drug,aflibercept 40 MG/ML [Eylea],RxNorm,Branded Drug Comp
+35606177,  --,1723182,Drug,aflibercept Injection [Eylea],RxNorm,Branded Drug Form
+42925950,  --,OMOP4652773,Drug,aflibercept Injectable Solution [Eylea],RxNorm Extension,Branded Drug Form
+41145920,  --,OMOP2343882,Drug,aflibercept Ophthalmic Solution [Eylea],RxNorm Extension,Branded Drug Form
+42481986  --,OMOP418836,Drug,aflibercept Prefilled Syringe [Eylea],RxNorm Extension,Branded Drug Form","Corrected variant 2 with ingredient code only: 40244266	1232150	aflibercept	Ingredient	Standard	Valid	Drug	RxNorm","mikita.salavei@odysseusinc.com ","validated"
+"159","1155_VEG_inhibitors_Avastin","19025347,  --,544556,Drug,bevacizumab 25 MG/ML [Avastin],RxNorm,Branded Drug Comp
+46275984,  --,1657067,Drug,bevacizumab Injection [Avastin],RxNorm,Branded Drug Form
+42926272,  --,OMOP4653091,Drug,bevacizumab Injectable Solution [Avastin],RxNorm Extension,Branded Drug Form
+42480852  --,OMOP419296,Drug,bevacizumab Prefilled Syringe [Avastin],RxNorm Extension,Branded Drug Form","Corrected variant 2 with ingredient code only: 1397141	253337	bevacizumab	Ingredient	Standard	Valid	Drug	RxNorm","mikita.salavei@odysseusinc.com ","validated"
+"160","1155_dupixent","1593467 -- dupilumab","","mikita.salavei@odysseusinc.com ","validated"
+"161","1155_IgE_test","4220748 -- Immunoglobulin E measurement + more than 2000 other concepts","","mikita.salavei@odysseusinc.com ","validated"
+"162","1155_EOS_test","2721185,--,S3630,Measurement,""Eosinophil count, blood, direct""
+37054465,--,LP392798-7,Measurement,Eosinophils/100 leukocytes | Blood | Hematology and Cell counts
+37393857,--,1022561000000101,Measurement,Eosinophil count
+4216098,--,71960002,Measurement,Eosinophil count
+4149456--,310540006,Measurement,Eosinophil percent differential count","","mikita.salavei@odysseusinc.com ","validated"
+"163","1155_excl_crit_malignancy","443392 -- Malignant neoplastic disease","","mikita.salavei@odysseusinc.com ","validated"
+"164","","","","oleg.zhuk@odysseusinc.com"," "
+"165","1011_CART_codes","926978,--,1035206,Procedure,Chimeric antigen receptor T-cell (CAR-T) therapy,CPT4
+2721111,--,S2107,Procedure,""Adoptive immunotherapy i.e. development of specific anti-tumor reactivity (e.g., tumor-infiltrating lymphocyte therapy) per course of treatment"",HCPCS
+1532662,--,XW043C,Procedure,New Technology @ Anatomical Regions @ Introduction @ Central Vein @ Percutaneous @ Engineered Autologous Chimeric Antigen Receptor T-cell Immunotherapy,ICD10PCS
+1534922,--,XW033C,Procedure,New Technology @ Anatomical Regions @ Introduction @ Peripheral Vein @ Percutaneous @ Engineered Autologous Chimeric Antigen Receptor T-cell Immunotherapy,ICD10PCS
+42639424,--,XW2434,Procedure,New Technology @ Anatomical Regions @ Transfusion @ Central Vein @ Percutaneous @ Brexucabtagene Autoleucel Immunotherapy,ICD10PCS
+42639752,--,XW2437,Procedure,New Technology @ Anatomical Regions @ Transfusion @ Central Vein @ Percutaneous @ Lisocabtagene Maraleucel Immunotherapy,ICD10PCS
+42639263,--,XW2334,Procedure,New Technology @ Anatomical Regions @ Transfusion @ Peripheral Vein @ Percutaneous @ Brexucabtagene Autoleucel Immunotherapy,ICD10PCS
+42639217 --,XW2337,Procedure,New Technology @ Anatomical Regions @ Transfusion @ Peripheral Vein @ Percutaneous @ Lisocabtagene Maraleucel Immunotherapy,ICD10PCS","","oleg.zhuk@odysseusinc.com"," "
+"166","1011_SCT_codes","45888232, -- Bone marrow harvesting for transplantation, CPT4
+2108430, -- Management of recipient hematopoietic progenitor cell donor search and cell acquisition, CPT4
+45890147, -- Blood-derived hematopoietic progenitor cell harvesting for transplantation, per collection, CPT4
+45890583, -- Transplant preparation of hematopoietic progenitor cells, CPT4
+45890584, -- Classification, 1006877, Hematopoietic progenitor cell (HPC),CPT4
+2833674, -- Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Open @ Bone Marrow
+2859124,--30230Y,Procedure,""Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Open @ Stem Cells, Hematopoietic"",ICD10PCS
+2872454, -- Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Bone Marrow
+2885573,--30233Y,Procedure,""Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Stem Cells, Hematopoietic"",ICD10PCS
+2885574, -- Administration @ Circulatory @ Transfusion @ Central Vein @ Open @ Bone Marrow
+2853604,--30240Y,Procedure,""Administration @ Circulatory @ Transfusion @ Central Vein @ Open @ Stem Cells, Hematopoietic"",ICD10PCS
+2813368, -- Administration @ Circulatory @ Transfusion @ Central Vein @ Percutaneous @ Bone Marrow
+2841327,--30243Y,Procedure,""Administration @ Circulatory @ Transfusion @ Central Vein @ Percutaneous @ Stem Cells, Hematopoietic"",ICD10PCS
+2841330, -- Administration @ Circulatory @ Transfusion @ Central Artery @ Open @ Bone Marrow (Deprecated)
+2859126, -- Administration @ Circulatory @ Transfusion @ Peripheral Artery @ Open @ Bone Marrow (Deprecated)
+2820541, -- Administration @ Circulatory @ Transfusion @ Peripheral Artery @ Open @ Stem Cells, Hematopoietic (Deprecated)
+2899290, -- Administration @ Circulatory @ Transfusion @ Peripheral Artery @ Percutaneous @ Bone Marrow (Deprecated)
+2899293, -- Administration @ Circulatory @ Transfusion @ Peripheral Artery @ Percutaneous @ Stem Cells, Hematopoietic (Deprecated)
+2899295, -- Administration @ Circulatory @ Transfusion @ Central Artery @ Open @ Stem Cells, Hematopoietic (Deprecated)
+2800365, -- Administration @ Circulatory @ Transfusion @ Central Artery @ Percutaneous @ Bone Marrow (Deprecated)
+2893414, -- Administration @ Circulatory @ Transfusion @ Central Artery @ Percutaneous @ Stem Cells, Hematopoietic (Deprecated)
+42639209,--30240C,Procedure,""Administration @ Circulatory @ Transfusion @ Central Vein @ Open @ Hematopoietic Stem/Progenitor Cells, Genetically Modified"",ICD10PCS
+42639687,--30243C,Procedure,""Administration @ Circulatory @ Transfusion @ Central Vein @ Percutaneous @ Hematopoietic Stem/Progenitor Cells, Genetically Modified"",ICD10PCS
+42639500,--30230C,Procedure,""Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Open @ Hematopoietic Stem/Progenitor Cells, Genetically Modified"",ICD10PCS
+42639742,--30233C,Procedure,""Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Hematopoietic Stem/Progenitor Cells, Genetically Modified"",ICD10PCS
+1523592,--30240U,Procedure,""Administration @ Circulatory @ Transfusion @ Central Vein @ Open @ Stem Cells, T-cell Depleted Hematopoietic"",ICD10PCS
+1523822,--30243U,Procedure,""Administration @ Circulatory @ Transfusion @ Central Vein @ Percutaneous @ Stem Cells, T-cell Depleted Hematopoietic"",ICD10PCS
+1523795,--30230U,Procedure,""Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Open @ Stem Cells, T-cell Depleted Hematopoietic"",ICD10PCS
+1523338 --30233U,Procedure,""Administration @ Circulatory @ Transfusion @ Peripheral Vein @ Percutaneous @ Stem Cells, T-cell Depleted Hematopoietic"",ICD10PCS","","oleg.zhuk@odysseusinc.com"," "
+"167","","","","oleg.zhuk@odysseusinc.com"," "
+"168","1057_beta_blockers_codes","ATC code C07A","Correction of HCPCS codes (adding concept_codes to concept_id 23/04/22)","oleg.zhuk@odysseusinc.com"," "
+"169","1057_calcium_channel_blockers_codes","ATC code C08","","oleg.zhuk@odysseusinc.com"," "
+"170","1057_ACE_inhibitors","ATC code C09A","","oleg.zhuk@odysseusinc.com"," "
+"171","1057_warfarin","ATC code B01AA03","","oleg.zhuk@odysseusinc.com"," "
+"172","1057_ezetimibe","ATC code C10AX09","","oleg.zhuk@odysseusinc.com"," "
+"173","1057_PCSK9i","ATC code C10AX13 evolucumab, C10AX14 alirocumab","","oleg.zhuk@odysseusinc.com"," "
+"174","1057_HMG_CoA_reductase_inhibitors","ATC codes C10AA01 simvastatin, C10A7 02 lovastatin, C10AA03 pravastatin, C10AA04 fluvastatin, C10AA05 atorvastatin, C10AA06 cerivastatin, C10AA07 rosuvastatin, C10AA08 pitavastatin","","oleg.zhuk@odysseusinc.com"," "
+"175","","","","oleg.zhuk@odysseusinc.com"," "
+"176","1225_BCC","""4313634,"",--,423535002,Condition,Basal cell carcinoma of chest wall,SNOMED
+""4294416,"",--,402820007,Condition,Basal cell carcinoma of ear,SNOMED
+""4335883,"",--,231832009,Condition,Basal cell carcinoma of eyelid,SNOMED
+""4299417,"",--,402519009,Condition,Basal cell carcinoma of face,SNOMED
+""4299418,"",--,402522006,Condition,Basal cell carcinoma of lower extremity,SNOMED
+""4291143,"",--,402494003,Condition,Basal cell carcinoma of lower eyelid,SNOMED
+""4291454,"",--,402818009,Condition,Basal cell carcinoma of nose,SNOMED
+""4112752,"",--,254701007,Condition,Basal cell carcinoma of skin,SNOMED
+""4298740,"",--,402819001,Condition,Basal cell carcinoma of skin of lip,SNOMED
+""4297668,"",--,402523001,Condition,Basal cell carcinoma of truncal skin,SNOMED
+""4297667,"",--,402521004,Condition,Basal cell carcinoma of upper extremity,SNOMED
+""4297185,"",--,403919005,Condition,Basal cell carcinoma of upper eyelid,SNOMED
+""133974,"",--,109264009,Condition,Overlapping malignant neoplasm of skin,SNOMED
+""36712713,"",--,1079111000119108,Condition,Primary basal cell carcinoma of left eyelid,SNOMED
+""36712715,"",--,1079171000119100,Condition,Primary basal cell carcinoma of right eyelid,SNOMED
+","","mikita.salavei@odysseusinc.com ","validated"
+"177","1225_Cemiplimab","35200783,,--,2058826,Drug,cemiplimab,RxNorm","","mikita.salavei@odysseusinc.com ","validated"
+"178","1225_HHIs","46275792,,--,1659927,Drug,sonidegib 200 MG Oral Capsule [Odomzo],RxNorm 42708081,,--,1242998,Drug,vismodegib 150 MG Oral Capsule [Erivedge],RxNorm","","mikita.salavei@odysseusinc.com ","validated"

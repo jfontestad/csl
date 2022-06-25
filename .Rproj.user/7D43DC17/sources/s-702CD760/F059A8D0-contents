@@ -1,0 +1,70 @@
+jj <- rjson::fromJSON(file = "C:/Users/Alex/D/projects/csl/tak/340_reference.json")
+
+takJsons <- list.files(
+  path = "C:/Users/Alex/D/projects/csl/tak",
+  pattern = '*.json',
+  recursive = F,
+  full.names = T
+)
+
+  csl::createNameFromConceptName(
+    sourceId = 'TAKEDA',
+    createMdFile = TRUE,
+    analyst = "takedaMedicalTeam",
+    jsons = takJsons,
+    validated = FALSE,
+    usedBy = 'unknown'
+  )
+
+
+
+csl::jsonToCsv(
+  phenotypeName = 'smth',
+  conceptSetJsonRepresentation = 
+    rjson::fromJSON(file = 'C:/Users/Alex/D/projects/csl/CS00_T_Chronic_myeloid_leukemia/CS00_T_Chronic_myeloid_leukemia.json')
+)  
+
+
+conceptSetJsonRepresentation = rjson::fromJSON(file = 'C:/Users/Alex/D/projects/csl/CS00_T_Chronic_myeloid_leukemia/CS00_T_Chronic_myeloid_leukemia.json'
+
+
+p_s <- read.csv("inst/phenotyping_status.csv")
+validated = "sadf"
+label <- ifelse(validated == "validatedNoRealData", 'Validated-green', 'Unknown-red')
+medicalAnalyst <- 'm.s.o'
+usedBy <- 
+uploadDate <- date()
+Name <- 'mmm'
+notes <- 
+labeling <- glue::glue('\t<img src="https://img.shields.io/badge/Status-{label}.svg" alt="Status: Validated"/>')
+name <- glue::glue('\t\t-   Name: **{Name}**\n')
+str2 <- glue::glue('\t\t-   Medical Analyst: **{medicalAnalyst}**\n')
+str3 <- glue::glue('\t\t-   Concept Set Used By: **{usedBy}**\n')
+str4 <- glue::glue('\t\t-   Upload Date: **{uploadDate}**\n')
+str5 <- glue::glue('\t\t-   CDM Version: **5**\n')
+str6 <- glue::glue('\t\t-   ATLAS Link:  **{atlasLink}**\n')
+str7 <- glue::glue('\n\n\t\t ## Notes\n\n {notes}')
+str8 <- glue::glue('\n\n\t\t\## Comments\n {comments}')
+out <- paste(labeling, str2)
+write(out, 'data.md')
+glue::glue({label})
+
+print('/# Advanced Lung Cancer')
+
+<img src="https://img.shields.io/badge/Status-Validated-green.svg" alt="Status: Validated"/>
+  
+  -   Name: **Advanced Lung Cancer**
+  -   ID: **CSE0001**
+  -   Author: **Alexander Alexeyuk**
+  -   Upload Date: **6/9/2022**
+  -   Project Code: **PROJECT_CODE_1234**
+  -   CDM Version **5**
+  -   ATLAS Link: 
+  
+  ## Notes
+  
+  Concept set expression for advanced lung cancer focusing on non-small cell lung cancer
+
+
+t <- 'sadf/asdf/dd'
+gsub('/', '', t)
